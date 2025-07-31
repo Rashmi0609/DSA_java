@@ -21,6 +21,7 @@ public class basic {
         System.out.println("The sum is: " + sum);
 
         sc.close();
+        
     }
 
 }
