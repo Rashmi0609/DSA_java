@@ -11,5 +11,6 @@ public class swap {
         int b=10;
         Swap(a,b);
         System.out.println("Before swapping: a = " + a + ", b = " + b);
+ 
     }
 }
