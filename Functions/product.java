@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Product {
+public class product {
     public static int calculateProduct(int a, int b) {
         return a * b;
     }
