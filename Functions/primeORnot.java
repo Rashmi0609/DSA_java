@@ -19,5 +19,5 @@ public class primeORnot {
         System.out.println(isPrime(2));
         System.out.println(isPrime(7));
         System.out.println(isPrime(10));
-    }    
+    }
 }
